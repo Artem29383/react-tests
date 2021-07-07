@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1623837722264" clover="3.2.0">
+  <project timestamp="1623837722264" name="All files">
+    <metrics statements="112" coveredstatements="109" conditionals="37" coveredconditionals="33" methods="42" coveredmethods="42" elements="191" coveredelements="184" complexity="0" loc="112" ncloc="112" packages="10" files="11" classes="11"/>
+    <package name="Button">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Button.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Button/Button.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Counter">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="Counter.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Counter/Counter.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Info">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="Info.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Info/Info.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="10" type="stmt"/>
+        <line num="23" count="18" type="stmt"/>
+        <line num="26" count="10" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="33" count="19" type="stmt"/>
+      </file>
+    </package>
+    <package name="Input">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Input.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Input/Input.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Pagination">
+      <metrics statements="21" coveredstatements="18" conditionals="18" coveredconditionals="14" methods="4" coveredmethods="4"/>
+      <file name="Pagination.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Pagination/Pagination.js">
+        <metrics statements="21" coveredstatements="18" conditionals="18" coveredconditionals="14" methods="4" coveredmethods="4"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+        <line num="9" count="15" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="12" count="15" type="stmt"/>
+        <line num="14" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="3" falsecount="1"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="15" type="stmt"/>
+        <line num="27" count="63" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="15" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Post">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="Post.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Post/Post.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Posts">
+      <metrics statements="44" coveredstatements="44" conditionals="11" coveredconditionals="11" methods="14" coveredmethods="14"/>
+      <file name="Posts.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Posts/Posts.js">
+        <metrics statements="37" coveredstatements="37" conditionals="11" coveredconditionals="11" methods="14" coveredmethods="14"/>
+        <line num="21" count="11" type="stmt"/>
+        <line num="29" count="11" type="stmt"/>
+        <line num="30" count="11" type="stmt"/>
+        <line num="33" count="11" type="stmt"/>
+        <line num="34" count="15" type="stmt"/>
+        <line num="37" count="15" type="stmt"/>
+        <line num="38" count="15" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="47" count="11" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="61" count="11" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="71" count="11" type="stmt"/>
+        <line num="72" count="15" type="stmt"/>
+        <line num="75" count="11" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="3" type="stmt"/>
+        <line num="79" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="82" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="85" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="91" count="11" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="104" count="35" type="stmt"/>
+        <line num="105" count="35" type="cond" truecount="1" falsecount="0"/>
+        <line num="107" count="35" type="stmt"/>
+        <line num="138" count="48" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Posts/constants.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Select">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="Select.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Select/Select.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Title">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Title.js" path="/Users/artemaveranov/testing-jest-enzyme/src/Title/Title.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="utils.js" path="/Users/artemaveranov/testing-jest-enzyme/src/utils/utils.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="24" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
